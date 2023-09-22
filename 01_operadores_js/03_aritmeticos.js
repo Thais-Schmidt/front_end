@@ -39,5 +39,5 @@ var resto = dividendo % divisor;
 
 console.log(resto);
 
-console.log();
+console.log('----------------------');
 
