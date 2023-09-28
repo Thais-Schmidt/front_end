@@ -19,3 +19,37 @@ function exibeSoma1(){
 
 exibeSoma1();
 
+console.log('------03------');
+
+function funcaoComParametro(texto){
+    console.log(`Imprimindo ${texto}`);
+}
+
+funcaoComParametro(`Alguma coisa`);
+
+console.log('------04------');
+
+const w = 10;
+const q = 5;
+let resultado2;
+
+function exibeSoma(valor1, valor2){
+    resultado2 = valor1+valor2;
+    console.log(resultado2);
+}
+
+exibeSoma(w, q);
+exibeSoma(8, 12);
+
+
+
+
+
+
+
+
+
+
+
+
+
