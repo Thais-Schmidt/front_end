@@ -1,0 +1,1 @@
+// Criar uma função utilizando for ou while que RETORNE um array com a seguinte contagem: 0 3 6 9 12 15 18.
